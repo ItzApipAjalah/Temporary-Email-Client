@@ -1,0 +1,5 @@
+requests
+dnspython
+selenium>=4.0.0
+webdriver_manager>=3.8.0
+ttkbootstrap>=1.10.1 
